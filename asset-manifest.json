@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/shopping-task/static/css/main.03721bc7.css",
-    "main.js": "/shopping-task/static/js/main.7386e479.js",
+    "main.css": "/shopping-task/static/css/main.e9cf4c32.css",
+    "main.js": "/shopping-task/static/js/main.93966fe3.js",
     "static/js/787.7e05ccd5.chunk.js": "/shopping-task/static/js/787.7e05ccd5.chunk.js",
-    "static/media/carosel3.jpg": "/shopping-task/static/media/carosel3.7754762f72c879988c80.jpg",
-    "static/media/carosel2.jpg": "/shopping-task/static/media/carosel2.460a1299744d4797dea1.jpg",
+    "static/media/carosel3.jpg": "/shopping-task/static/media/carosel3.45c4cbd4d37639ef3aec.jpg",
+    "static/media/carosel1.webp": "/shopping-task/static/media/carosel1.5630efdcd88ed605363a.webp",
+    "static/media/carosel2.jpg": "/shopping-task/static/media/carosel2.202390643644dfe11f0f.jpg",
     "static/media/image 12.png": "/shopping-task/static/media/image 12.cecc61ee32bdca0e288b.png",
     "static/media/videoImg.png": "/shopping-task/static/media/videoImg.276b6bacd29da517db4d.png",
     "static/media/image 9.png": "/shopping-task/static/media/image 9.7695296e62c006fa4969.png",
@@ -12,10 +13,10 @@
     "static/media/Rectangle2.png": "/shopping-task/static/media/Rectangle2.7b44d5f05796a655d236.png",
     "static/media/Rectangle325.png": "/shopping-task/static/media/Rectangle325.d7c4eb7e332a6f171aa2.png",
     "static/media/Rectangle3.png": "/shopping-task/static/media/Rectangle3.c7c525e591d0fd8d2428.png",
-    "static/media/Rectangle 7.png": "/shopping-task/static/media/Rectangle 7.b9c1c531970723b69e55.png",
-    "static/media/Rectangle 9.png": "/shopping-task/static/media/Rectangle 9.56e61434bf84a9f29400.png",
-    "static/media/Rectangle 8.png": "/shopping-task/static/media/Rectangle 8.d4496a672afbb0bca7b5.png",
-    "static/media/Rectangle 10.png": "/shopping-task/static/media/Rectangle 10.7d0c2315009fde1fa599.png",
+    "static/media/Rectangle7.png": "/shopping-task/static/media/Rectangle7.b9c1c531970723b69e55.png",
+    "static/media/Rectangle9.png": "/shopping-task/static/media/Rectangle9.56e61434bf84a9f29400.png",
+    "static/media/Rectangle8.png": "/shopping-task/static/media/Rectangle8.d4496a672afbb0bca7b5.png",
+    "static/media/Rectangle10.png": "/shopping-task/static/media/Rectangle10.7d0c2315009fde1fa599.png",
     "static/media/Group.svg": "/shopping-task/static/media/Group.b04fdc561c1846a5d5020accacbfd7d0.svg",
     "static/media/Boss.svg": "/shopping-task/static/media/Boss.3fe3895c1e44c8a83815ca0c59c27784.svg",
     "static/media/Tiffany & Co.svg": "/shopping-task/static/media/Tiffany & Co.b593744d4bfbd39b31f4239d7b2548e0.svg",
@@ -24,6 +25,7 @@
     "static/media/seperator.svg": "/shopping-task/static/media/seperator.6220ed8b5ad824f8fdc87a6d421cfe33.svg",
     "static/media/Gucci.svg": "/shopping-task/static/media/Gucci.d17f670256c8a008e5cad82ec72f8869.svg",
     "static/media/Prada.svg": "/shopping-task/static/media/Prada.ccb646e65106ac779f4e175f3913b654.svg",
+    "static/media/Instagram-White.svg": "/shopping-task/static/media/Instagram-White.987af3cbaa5f25846f564b7c9a090798.svg",
     "static/media/Twitter.svg": "/shopping-task/static/media/Twitter.acd45ec932214b3be612c06c4e2227f4.svg",
     "static/media/Instagram.svg": "/shopping-task/static/media/Instagram.2702c5eec6334cb23a32e254c3e58671.svg",
     "static/media/Group 11.svg": "/shopping-task/static/media/Group 11.961af1f4f440a663319b66761712eda4.svg",
@@ -35,12 +37,12 @@
     "static/media/Devider.svg": "/shopping-task/static/media/Devider.8bbde6e18e59f84a4732b3c85f324c0f.svg",
     "static/media/logo.svg": "/shopping-task/static/media/logo.d6bdde33f452145d0993a623822e11b3.svg",
     "static/media/Forward Arrow.svg": "/shopping-task/static/media/Forward Arrow.fb23415686b40163f6b62877e44fc2bc.svg",
-    "main.03721bc7.css.map": "/shopping-task/static/css/main.03721bc7.css.map",
-    "main.7386e479.js.map": "/shopping-task/static/js/main.7386e479.js.map",
+    "main.e9cf4c32.css.map": "/shopping-task/static/css/main.e9cf4c32.css.map",
+    "main.93966fe3.js.map": "/shopping-task/static/js/main.93966fe3.js.map",
     "787.7e05ccd5.chunk.js.map": "/shopping-task/static/js/787.7e05ccd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03721bc7.css",
-    "static/js/main.7386e479.js"
+    "static/css/main.e9cf4c32.css",
+    "static/js/main.93966fe3.js"
   ]
 }
