@@ -1,0 +1,351 @@
+*{
+  font-family: Tenor Sans;
+  padding: 0;
+  margin: 0;
+}
+.bannerHeadingDiv {
+  color: var(--gray-scale-body, #333);
+  font-family: Bodoni Moda !important;
+  font-size: 22px;
+  font-style: italic;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 1.208px;
+  line-height: 43.488px;
+  opacity: 0.7;
+  position: absolute;
+  bottom: 235px;
+}
+
+.carousel-caption{
+  bottom: 14.25rem !important;
+
+}
+.carousel-caption h1{
+  color: rgb(156 182 227);
+  font-size: 38.656px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 43.488px; 
+  letter-spacing: 1.208px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.exploreNow {
+  width: 235px;
+  height: 40px;
+  padding: 8px 20px;
+  border-radius: 30px;
+  background: rgb(0 0 0 / 70%);
+  color: var(--gray-scale-off-white, #fcfcfc);
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 16px;
+  border: none;
+}
+
+.collectedArrivalsImg img{
+  min-width: 160px;
+  width: 15vw;
+  padding: 0 10px;
+}
+
+.categorylistAmount{
+  color: var(--primary-default, #dd8560);
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  margin: 12px 0;
+}
+
+.newArrivalHeading {
+  color: var(--gray-scale-title-active, #000);
+  font-weight: 400;
+  line-height: 40px;
+  font-size: 18px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  margin-top: 25px;
+}
+
+.newArrivalOptions {
+  display: flex;
+  margin-top: 5px;
+  font-size: 14px;
+  justify-content: space-evenly;
+  color: var(--gray-scale-placehoder, #888);
+  text-align: center;
+  font-weight: 400;
+  line-height: 106%;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.exploreMore {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.collectedArrivals {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 30px 0;
+  flex-wrap: wrap;
+}
+
+.newArrivalOptions span:hover {
+  transition: all 0.5s cubic-bezier(0.51, 0.19, 0.95, 0.79);
+  color: var(--secondery-default, #212806);
+  font-weight: 800;
+}
+.collectionContent{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.arrivalText {
+  color: var(--gray-scale-body, #333);
+  text-align: center;
+  font-size: 14px;
+  margin: 12px 0;
+  font-weight: 400;
+  width: 99%;
+  text-wrap: wrap;
+  
+}
+
+.explore {
+  color: var(--gray-scale-title-active, #000);
+  margin: 0 15px;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.brandLogo {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-row-gap: 25px;
+  margin: 25px 0;
+}
+
+.brandList {
+  margin: 30px 0;
+}
+
+.classTen {
+  color: var(--gray-scale-body, #333333a3);
+  font-family: Bodoni Moda;
+  font-style: italic;
+  font-size: 160px;
+  font-weight: 800;
+  margin: 0;
+}
+
+.classTenRelative {
+  position: relative;
+  right: -80px;
+  bottom: 203px;
+}
+
+.octoberCollection, .octoberCollection2 {
+  margin: 0;
+  color: #fcfcfc;
+  font-family: Bodoni Moda;
+  font-style: italic;
+  width: 66%;
+  position: absolute;
+  font-size: 50px;
+  text-align: left;
+  top: 65px;
+  right: 0px;
+}
+.octoberCollection2 {
+  font-size: 30px;
+  right: -8px;
+  top: 120px;
+}
+
+.collectionHeading {
+  font-weight: 400;
+  color: var(--gray-scale-title-active, #000);
+  text-transform: uppercase;
+  font-size: 18px;
+  letter-spacing: 4px;
+  line-height: 40px;
+}
+.autumn {
+  color: var(--gray-scale-body, #333333ad);
+  font-family: Bodoni Moda;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+.collection {
+  margin-top: 0;
+  color: var(--gray-scale-body, #333);
+  letter-spacing: 5.307px;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 15px;   
+}
+
+.relative2 {
+  position: relative;
+  bottom: 290px;
+  right: -35px;
+}
+
+.listOfProduct {
+  margin: 20px 0px;
+  display: flex;
+  overflow-x: hidden;
+}
+.products h4 {
+  margin-top: 55px;
+  margin-bottom: 0;
+}
+.prod {
+  cursor: pointer;
+  margin: 0 15px;
+}
+
+.trendHeader, .products h4 {
+  color: var(--gray-scale-title-active, #000);
+  font-weight: 400;
+  line-height: 40px;
+  font-size: 18px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.trendOptions {
+  padding: 0 20px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.trendOptions p {
+  border-radius: 30px;
+  background: var(--gray-scale-input-bg, #f9f9f9);
+  padding: 5px 10px;
+  margin: 15px 5px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.description {
+  padding: 0 40px 15px;
+  color: var(--gray-scale-label, #555);
+  font-size: 17px;
+  letter-spacing: 0.14px;
+  opacity: 0.7;
+
+}
+.trendOptions p:hover {
+  color: white;
+  background-color: #514e4e;
+  transition: all 0.5s ease-in;
+}
+
+.specialFeature {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 30px 0;
+  gap: 10px;
+}
+.features{
+  font-size: 15px;
+}
+
+.followUS h1 {
+  color: var(--gray-scale-title-active, #000);
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 40px;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  margin-top: 25px;
+  letter-spacing: 4px;
+}
+
+.followPersons {
+  margin: 20px 10px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.followPersons p {
+  position: relative;
+  width: 163px;
+  height: 25px;
+  padding: 0 10px;
+  bottom: 25px;
+  left: 0px;
+  color: #fff;
+  background: linear-gradient(0deg, #000 0%, rgba(0, 0, 0, 0) 100%);
+  text-align: initial;
+  letter-spacing: 1px;
+}
+
+.socialLinks {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 25px;
+}
+.socialLinks img, .home h3{
+    cursor: pointer;
+}
+
+.collectedArrivalsContainer:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: all 0.3s ease-in;
+    font-weight: 800;
+}
+img{
+  width: fit-content;
+  height: fit-content;
+}
+@media (max-width: 600px) {
+  .specialFeature{
+    display: grid;
+    grid-template-columns: 50% 50%;
+  }
+  .carousel-caption h1{
+    text-align: left;
+  }
+
+}
+@media (max-width: 760px) {
+  .collectedArrivals, .followPersons{
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+
+}
+@media (max-width: 350px) {
+  .collectedArrivals, .followPersons, .brandLogo{
+    display: grid;
+    grid-template-columns: auto ;
+  }
+  .brandLogo{
+    display: grid;
+    grid-template-columns: auto auto ;
+  }
+
+}
+@media (max-width: 1060px) {
+  .collectionContent{
+    display: grid;
+    /* grid-template-columns: auto auto; */
+  }
+
+}
